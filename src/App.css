@@ -1,0 +1,15 @@
+/* BotCollection.css */
+.BotCollection {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly; /* Use space-evenly to evenly distribute items */
+  gap: 20px;
+}
+
+/* YourBotArmy.css */
+.YourBotArmy {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly; /* Use space-evenly to evenly distribute items */
+  gap: 20px;
+}
